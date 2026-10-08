@@ -1,0 +1,248 @@
+{
+  "generatedAt": "2026-10-05",
+  "tool": "image_gen.imagegen",
+  "lossless": true,
+  "totalBytes": 6248300,
+  "assets": [
+    {
+      "name": "plank",
+      "width": 512,
+      "height": 52,
+      "alpha": true,
+      "bytes": 41660,
+      "opaqueBounds": [
+        0,
+        1,
+        512,
+        52
+      ],
+      "transparentPixels": 37,
+      "opaquePixels": 26040
+    },
+    {
+      "name": "fan",
+      "width": 362,
+      "height": 512,
+      "alpha": true,
+      "bytes": 184588,
+      "opaqueBounds": [
+        0,
+        0,
+        361,
+        512
+      ],
+      "transparentPixels": 86292,
+      "opaquePixels": 90634
+    },
+    {
+      "name": "wood-ball",
+      "width": 512,
+      "height": 511,
+      "alpha": true,
+      "bytes": 330354,
+      "opaqueBounds": [
+        0,
+        0,
+        511,
+        511
+      ],
+      "transparentPixels": 56479,
+      "opaquePixels": 202244
+    },
+    {
+      "name": "bell",
+      "width": 487,
+      "height": 512,
+      "alpha": true,
+      "bytes": 218628,
+      "opaqueBounds": [
+        0,
+        0,
+        487,
+        512
+      ],
+      "transparentPixels": 121898,
+      "opaquePixels": 124398
+    },
+    {
+      "name": "metal-ball",
+      "width": 512,
+      "height": 512,
+      "alpha": true,
+      "bytes": 363068,
+      "opaqueBounds": [
+        1,
+        0,
+        512,
+        511
+      ],
+      "transparentPixels": 55994,
+      "opaquePixels": 203421
+    },
+    {
+      "name": "weight",
+      "width": 273,
+      "height": 512,
+      "alpha": true,
+      "bytes": 190950,
+      "opaqueBounds": [
+        0,
+        0,
+        272,
+        512
+      ],
+      "transparentPixels": 27397,
+      "opaquePixels": 110565
+    },
+    {
+      "name": "pulley",
+      "width": 512,
+      "height": 509,
+      "alpha": true,
+      "bytes": 289586,
+      "opaqueBounds": [
+        0,
+        0,
+        511,
+        509
+      ],
+      "transparentPixels": 99346,
+      "opaquePixels": 155361
+    },
+    {
+      "name": "bg-night",
+      "width": 1440,
+      "height": 840,
+      "alpha": false,
+      "bytes": 1529298,
+      "opaqueBounds": [
+        0,
+        0,
+        1440,
+        840
+      ],
+      "transparentPixels": 0,
+      "opaquePixels": 1209600
+    },
+    {
+      "name": "spring",
+      "width": 266,
+      "height": 512,
+      "alpha": true,
+      "bytes": 198826,
+      "opaqueBounds": [
+        0,
+        1,
+        266,
+        512
+      ],
+      "transparentPixels": 16575,
+      "opaquePixels": 114917
+    },
+    {
+      "name": "magnet",
+      "width": 491,
+      "height": 512,
+      "alpha": true,
+      "bytes": 294264,
+      "opaqueBounds": [
+        0,
+        1,
+        491,
+        511
+      ],
+      "transparentPixels": 88430,
+      "opaquePixels": 158660
+    },
+    {
+      "name": "candle",
+      "width": 293,
+      "height": 512,
+      "alpha": true,
+      "bytes": 172298,
+      "opaqueBounds": [
+        1,
+        16,
+        292,
+        512
+      ],
+      "transparentPixels": 36139,
+      "opaquePixels": 95581
+    },
+    {
+      "name": "scissors",
+      "width": 512,
+      "height": 252,
+      "alpha": true,
+      "bytes": 85266,
+      "opaqueBounds": [
+        0,
+        0,
+        512,
+        252
+      ],
+      "transparentPixels": 86757,
+      "opaquePixels": 37737
+    },
+    {
+      "name": "bucket",
+      "width": 454,
+      "height": 512,
+      "alpha": true,
+      "bytes": 247136,
+      "opaqueBounds": [
+        0,
+        0,
+        453,
+        512
+      ],
+      "transparentPixels": 99870,
+      "opaquePixels": 127500
+    },
+    {
+      "name": "brass-cup",
+      "width": 512,
+      "height": 398,
+      "alpha": true,
+      "bytes": 245530,
+      "opaqueBounds": [
+        0,
+        0,
+        512,
+        398
+      ],
+      "transparentPixels": 52473,
+      "opaquePixels": 148103
+    },
+    {
+      "name": "clock-ball",
+      "width": 512,
+      "height": 510,
+      "alpha": true,
+      "bytes": 326728,
+      "opaqueBounds": [
+        0,
+        0,
+        512,
+        510
+      ],
+      "transparentPixels": 55118,
+      "opaquePixels": 203402
+    },
+    {
+      "name": "bg-dusk",
+      "width": 1440,
+      "height": 840,
+      "alpha": false,
+      "bytes": 1530120,
+      "opaqueBounds": [
+        0,
+        0,
+        1440,
+        840
+      ],
+      "transparentPixels": 0,
+      "opaquePixels": 1209600
+    }
+  ]
+}
