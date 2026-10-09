@@ -1,4 +1,4 @@
-import{n as e}from"./paths-D4HrV3uM.js";/* empty css             */var t=[`exp_save`,`exp_summit_defense_prototype_v2`,`exp_audio`],n=document.querySelector(`#app`);n.innerHTML=`<section class="login" style="max-width:640px;padding:32px;gap:20px">
+import{t as e}from"./paths-Dr2Vkqsd.js";/* empty css             */var t=[`exp_save`,`exp_summit_defense_prototype_v2`,`exp_audio`],n=document.querySelector(`#app`);n.innerHTML=`<section class="login" style="max-width:640px;padding:32px;gap:20px">
   <h1 style="font-size:22px">Перенос сохранения</h1>
   <p>Скачай файл на прежнем адресе, затем открой эту страницу на новом адресе и загрузи его. Экспедиция и расстановка ловушек переносятся вместе.</p>
   <p>Если прежний сайт не открывается, его сохранение остаётся в этом браузере. Экспорт станет доступен после восстановления сайта с этой страницей.</p>

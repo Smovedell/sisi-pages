@@ -1,4 +1,4 @@
-import"./paths-D4HrV3uM.js";/* empty css             */import{a as e,c as t,d as n,f as r,i,l as a,n as o,o as s,r as c,s as l,u}from"./access-kymq9lgY.js";var d=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Алиса">
+import"./paths-Dr2Vkqsd.js";/* empty css             */import{a as e,c as t,d as n,f as r,i,l as a,n as o,o as s,r as c,s as l,u}from"./access-B24lKLmi.js";var d=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Алиса">
   <defs>
     <filter id="alice-glow" x="-60%" y="-60%" width="220%" height="220%">
       <feGaussianBlur stdDeviation="7" />
